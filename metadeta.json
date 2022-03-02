@@ -1,0 +1,25 @@
+{
+  "name": "my unhidden nft",
+  "symbol": "rdx",
+  "image": "https://raw.githubusercontent.com/vipin-imentus/assets/main/car.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "car.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "NegZ3fYojj3ZgWtRzVeW6jzYVpyBH524aCbYCWrbUoL",
+        "share": 100
+      }
+    ]
+  },
+  "description": "unhidden",
+  "seller_fee_basis_points": 10000,
+  "attributes": [
+  ],
+  "collection": {}
+}
